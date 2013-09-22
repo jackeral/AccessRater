@@ -1,0 +1,1 @@
+This is a stub for the readme file for the AccessRater application for iOS. A detailed description will be added at a later date.
